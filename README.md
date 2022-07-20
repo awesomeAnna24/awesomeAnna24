@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awesomeAnna24
+- 👋 Hi, I’m Anastacia Muringo
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning javascript - Node js, Mongo Db & React
 - 💞️ I’m looking to collaborate on anything front end web development related
