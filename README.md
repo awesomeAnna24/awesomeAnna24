@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastacia Muringo
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript - Node js, Mongo Db & React
+- 🌱 I’m currently learning javascript - Node js, Mongo Db & React and C.
 - 💞️ I’m looking to collaborate on anything front end web development related
 - 📫 You can reach me on discord: username - awesomeAnna#6657
 
